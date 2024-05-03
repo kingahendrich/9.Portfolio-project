@@ -273,6 +273,6 @@ section {
 
     .contact input[type="text"],
     .contact input[type="email"] {
-        flex-basis: 100%; */
+        flex-basis: 100%;
     }
 }
