@@ -16,6 +16,16 @@ hr {
     margin: 0 auto;
 }
 
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons-margin {
+    margin: 0 5px;
+}
+
 section { 
     padding: 120px 0;
 }
